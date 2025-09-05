@@ -4,8 +4,8 @@ import shutil
 from playwright.async_api import async_playwright
 import kagglehub
 
-EMAIL = "your_email_here"
-PASSWORD = "your_password_here"
+EMAIL = "REMOVED_EMAIL"
+PASSWORD = "REMOVED_PASSWORD"
 QUERY = "basketball dataset"
 DOWNLOAD_PATH = "downloads"
 
